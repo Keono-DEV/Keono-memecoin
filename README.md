@@ -12,7 +12,7 @@ Airdrop supply (25%): 250M (250.000.000)
 
 Each eligible recipient will recieve **75.551,53 $KEONO**:
 
-$250000000/3309=75551.53$
+250000000/3309=75551.53
 
 ### Airdrop
 
