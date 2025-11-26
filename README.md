@@ -10,9 +10,9 @@ Total supply of $KEONO: 1B (1.000.000.000)
 
 Airdrop supply (25%): 250M (250.000.000)
 
-Each eligible recipient will recieve **75.551,53 $KEONO**:
+Each eligible recipient will recieve **74.008,28 $KEONO**:
 
-250000000/3309=75551.53
+250000000/3378=74008.28
 
 ### Airdrop
 
@@ -33,7 +33,7 @@ Snapshot block (Monad Testnet): 50.000.000
 - 5: LaMouch (2nd collection)
 - 6: LaMouch X fantasytop Pass
 - 7: Molandaks Mint Pass
-- 8: MONGANG
+- 8: MONGANG GTD
 - 9: Overnads Mint Pass
 - 10: Purple Frens
 - 11: RealNads
@@ -64,7 +64,7 @@ Contracts of the selected NFTs (Same order as above)
 5) 	0x5A21b0F4a4f9B54e16282b6ed5AD014B3C77186F
 6) 	0x4bac889f20b9de43734f15379096c98f34154c50
 7) 	0x6341C537a6Fc563029D8E8Caa87dA37F227358f4
-8) 	0x209Fb14943E9412354E982C4784BF89dF760bf8F
+8) 	0x4e0ca06351f6ae5cd6751d0c693eb3c1a1c39918
 9) 	0x49D54cd9CA8C5ecADbB346DC6B4e31549F34E405
 10) 0xC5c9425D733b9f769593bd2814B6301916f91271
 11) 0xb981a81b45f604F82bd502a35c6dbE25Dd2e8b8d
