@@ -18,7 +18,7 @@ Each eligible recipient will recieve **74.008,28 $KEONO**:
 
 Airdrop recipants were determined by analyzing REAL testnet NFT activities.
 
-**3309 wallets eligible.**
+**3378 wallets eligible.**
 
 Snapshot block (Monad Testnet): 50.000.000
 
