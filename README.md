@@ -4,17 +4,24 @@
 **OFFICIAL CA WILL BE ADDED HERE WHEN LAUNCHED.**
 
 
-**$KEONO Will airdrop 25% of the total supply.**
+**$KEONO Will airdrop 27% of the total supply.**
 
 Total supply of $KEONO: 1B (1.000.000.000)
 
-Airdrop supply (25%): 250M (250.000.000)
+Total Airdrop supply (27%): 270M (270.000.000)
 
-Each eligible recipient will recieve **74.008,28 $KEONO**:
+- 25% to Selected Testnet NFT holders
+- 2% to Early Keono TG users
+
+Each eligible testnet NFT holders will recieve **74.008,28 $KEONO**:
 
 250000000/3378=74008.28
 
-### Airdrop
+Each eligible Early Keono TG user will receive **66.666,66 $KEONO**
+
+2000000/300=66666.66
+
+### Testnet NFT Airdrop
 
 Airdrop recipants were determined by analyzing REAL testnet NFT activities.
 
