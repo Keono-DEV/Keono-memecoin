@@ -11,7 +11,7 @@ Total supply of $KEONO: 1B (1.000.000.000)
 Total Airdrop supply (27%): 270M (270.000.000)
 
 - 25% to Selected Testnet NFT holders
-- 2% to Early Keono TG users
+- 2% to Early Keono TG users (Max 300 users)
 
 Each eligible testnet NFT holders will recieve **74.008,28 $KEONO**:
 
